@@ -12,11 +12,11 @@
   </div>
   <!-- ABOUT INFO -->
   <ul>
-    <li>:information_desk_person: I’m currently working on my Web development and Problem Solving skills(DSA).</li>
-    <li>🌱 I’m currently trying have grip on machine learning.</li>
+    <li>💁 I’m currently working on my Web development and Problem Solving skills(DSA).</li>
+    <li>🤞 I’m currently trying have grip on machine learning.</li>
     <li>💗 I love to code and I can spend hours without getting distracted.</li>
-    <li>📄 I really like to try new tecnology and try to work in that.</li>
-    <li>⚡ I love doing CP but only until I am able to solve, ones I get stuck on a problem it takes me dyas to figure out how that will work.</li>
+    <li>✨ I really like to try new tecnology and try to work in that.</li>
+    <li>🥲 I love doing CP but only until I am able to solve, ones I get stuck on a problem it takes me dyas to figure out how that will work.</li>
   </ul>
 
 
@@ -34,12 +34,12 @@
   </div>
   <!-- GITHUB STREAK GIF -->
   <div align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=younus-Sid&theme=merko&hide_border=true">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=younus-Sid&theme=merko">
   </div>
 
 
 <!-- GITHUB LANGUAGES USED SECTION -->
-## <div align="center"><img height="33px" width="33px" src="https://user-images.githubusercontent.com/91816645/173224399-7a5ba8d2-fa6d-46c0-945b-c485dc497f9f.gif">&nbsp;&nbsp;Languages Used&nbsp;<img height="33px" width="33px" src="https://user-images.githubusercontent.com/91816645/173224399-7a5ba8d2-fa6d-46c0-945b-c485dc497f9f.gif">
+## <div align="center"><img height="30px" width="30px" src="https://user-images.githubusercontent.com/91816645/173224399-7a5ba8d2-fa6d-46c0-945b-c485dc497f9f.gif">&nbsp;&nbsp;Languages Used&nbsp;&nbsp;<img height="30px" width="30px" src="https://user-images.githubusercontent.com/91816645/173224399-7a5ba8d2-fa6d-46c0-945b-c485dc497f9f.gif">
   </div>
   <!-- LANGUAGES USED GIF -->
   <div align="center">
@@ -69,17 +69,17 @@
   </ul>
 
 
-<!-- CONTRIBUTION CHART SECTION -->
-## <div align="center"><img height="37px" width="37px" src="https://user-images.githubusercontent.com/91816645/173222757-326a27de-063a-4c14-8e8d-bd46c6361b25.gif">&nbsp;&nbsp;Contributions chart&nbsp;<img height="37px" width="37px" src="https://user-images.githubusercontent.com/91816645/173222757-326a27de-063a-4c14-8e8d-bd46c6361b25.gif">
+<!-- CONTRIBUTION SECTION -->
+## <div align="center"><img height="37px" width="37px" src="https://user-images.githubusercontent.com/91816645/173222757-326a27de-063a-4c14-8e8d-bd46c6361b25.gif">&nbsp;&nbsp;Contributions&nbsp;<img height="37px" width="37px" src="https://user-images.githubusercontent.com/91816645/173222757-326a27de-063a-4c14-8e8d-bd46c6361b25.gif">
   </div>
-  <!-- CONTRIBUTION CHART GIF -->
+  <!-- CONTRIBUTION GIF -->
   <div align="center">
     <img src="https://github.com/younus-Sid/younus-Sid/blob/output/github-contribution-grid-snake.svg">
   </div>
 
 
 <!-- CONNECT ME SECTION -->
-## <div align="center"><img height="37px" width="37px" src="https://user-images.githubusercontent.com/91816645/173221621-38c0a8d9-c362-430f-9813-714eca6836b7.gif" align="center">&nbsp;&nbsp;Connect Me Here&nbsp;&nbsp;<img height="37px" width="37px" src="https://user-images.githubusercontent.com/91816645/173221621-38c0a8d9-c362-430f-9813-714eca6836b7.gif" align="center">
+## <div align="center"><img height="37px" width="37px" src="https://user-images.githubusercontent.com/91816645/173221621-38c0a8d9-c362-430f-9813-714eca6836b7.gif" align="center">&nbsp;&nbsp;Connect Here&nbsp;&nbsp;<img height="37px" width="37px" src="https://user-images.githubusercontent.com/91816645/173221621-38c0a8d9-c362-430f-9813-714eca6836b7.gif" align="center">
   </div>
   <!-- LINKEDIN SECTION -->
   <div align="center">
