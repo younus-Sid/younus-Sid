@@ -65,7 +65,7 @@
   <!-- MY PROJECTS LIST -->
   <ul>
     <li>Built A Jigsaw Puzzle game using Unity.</li>
-    <li>Made a machine learning model used for detecting sign-language alphabets and can also detect some come words used in sign language.</li>
+    <li>Made a machine learning model used for detecting sign-language alphabets and can also detect some common words used in sign language.</li>
     <li>Working on an app that does complex mathematical computations.</li>
   </ul>
 
