@@ -12,8 +12,8 @@
   </div>
   <!-- ABOUT INFO -->
   <ul>
-    <li>💁 I’m currently working on my Web development and Problem Solving Skills(DSA).</li>
-    <li>🤞 I’m currently trying have grip on machine learning.</li>
+    <li>💁 I am currently working on my Web development and Problem Solving Skills(DSA).</li>
+    <li>🤞 I am currently trying have grip on machine learning.</li>
     <li>💗 I love to code and I can spend hours without getting distracted.</li>
     <li>⚡ I really like to try new tecnology and try to work in that.</li>
     <li>🥲 I love doing CP but only until I am able to solve, ones I get stuck on a problem it takes me days to figure out how that will work.</li>
