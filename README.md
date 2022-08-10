@@ -55,7 +55,7 @@
     <li>Languages : C/C++, Python, C#, Java</li>
     <li>Softwares: Android Studio, Unity, Blender, VS Code</li>
     <li>Frameworks : Django, Tensorflow, Keras</li>
-    <li>ML Libraries : Numpy, Scikit-learn, Pandas, Matplotlib</li>
+    <li>ML Libraries : Numpy, Scikit-learn, Pandas, Matplotlib, OpenCV</li>
   </ul>
 
 
