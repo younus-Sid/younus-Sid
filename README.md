@@ -85,7 +85,7 @@
   <!-- LINKEDIN SECTION -->
   <div align="center">
     <!-- LINKEDIN SVG -->
-    <a href="https://www.linkedin.com/in/younus-siddique-59908020a">
+    <a href="https://www.linkedin.com/in/younus-Sid">
       <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" width="27px" align="center" />
     </a>&nbsp;&nbsp;
     <!-- EMAIL SECTION -->
