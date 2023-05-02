@@ -94,7 +94,7 @@
       <img width="27px" src="https://user-images.githubusercontent.com/91816645/173191980-4141ba6a-aef8-487b-8f02-adae39601e20.svg" align="center">
     </a>&nbsp;&nbsp;
     <!-- INSTAGRAM SECTION -->
-    <a href="https://instagram.com/coyousi19">
+    <a href="https://instagram.com/coyousi">
       <!-- INSTAGRAM SVG -->
       <img  src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Instagram" width="27px" align="center"/>
     </a><br>
